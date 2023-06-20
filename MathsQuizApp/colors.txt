@@ -1,0 +1,16 @@
+Color One[]
+#EEEEEE
+rgb(238, 238, 238)
+
+Color Two
+222831
+rgb(34, 40, 49)
+
+Color Three
+4F8A8B
+rgb(79, 138, 139)
+
+Color Four
+4F8A8B
+rgb(79, 138, 139)
+
